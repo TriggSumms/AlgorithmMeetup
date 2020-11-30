@@ -48,3 +48,4 @@ Find the nth degree of the Fibonacci sequence using a recursive solution.
 Find the sum of all numbers from 0 to __n__ using a recursive solution.
 #### [Singly Linked Lists](https://github.com/dLars99/Morning-Algorithms/tree/master/linked-list/linked-list.js)
 Singly Linked List data structure. Constructor plus methods for push, pop, shift, unshift, get, set, insert, remove, and reverse.
+# AlgorithmMeetup
